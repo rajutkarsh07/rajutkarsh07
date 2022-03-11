@@ -19,7 +19,7 @@ Fork on GitHub1928
 
 - 📫 How to reach me **rajutkarsh2505@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/utkarsh-raj-67623a16b/]<a href="https://www.linkedin.com/in/utkarsh-raj-67623a16b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-raj-67623a16b/" height="30" width="40" /></a>
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/utkarsh-raj-67623a16b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-raj-67623a16b/" height="30" width="40" /></a>
 
 - ⚡ Fun fact **I sneeze whenever I see the sun 🥲**
 
