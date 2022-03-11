@@ -9,7 +9,7 @@ Fork on GitHub1928
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajutkarsh07" alt="rajutkarsh07" /></a> </p> -->
 
-- 🔭 I’m currently in **IIITDMJ 1st year cse undergrad🧑🏻‍💻**
+- 🔭 I’m currently in **IIITDMJ 1st year CSE undergrad🧑🏻‍💻**
 
 - 🌱 I’m currently learning **Javascript and react.js**
 
@@ -19,7 +19,7 @@ Fork on GitHub1928
 
 - 📫 How to reach me **rajutkarsh2505@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/utkarsh-raj-67623a16b/](https://www.linkedin.com/in/utkarsh-raj-67623a16b/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/utkarsh-raj-67623a16b/]<a href="https://www.linkedin.com/in/utkarsh-raj-67623a16b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-raj-67623a16b/" height="30" width="40" /></a>
 
 - ⚡ Fun fact **I sneeze whenever I see the sun 🥲**
 
