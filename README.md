@@ -23,6 +23,8 @@ Fork on GitHub1928
 
 - ⚡ Fun fact **I sneeze whenever I see the sun 🥲**
 
+![](https://komarev.com/ghpvc/?username=rajutkarsh07&color=blueviolet&style=for-the-badge)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/utkarsh_raj_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utkarsh_raj_13" height="30" width="40" /></a>
