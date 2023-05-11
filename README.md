@@ -10,7 +10,7 @@
   />
 </p>
 
-- 🔭 I’m currently in **IIITDMJ 2nd year CSE undergrad🧑🏻‍💻** 
+- 🔭 I’m currently in **IIITDMJ 3rd year CSE undergrad🧑🏻‍💻** 
 - 🌱 I’m currently learning **React and Node js** 
 - 👯 I’m looking to collaborate on **React and Node js projects** 
 - 👨‍💻 All of my projects are available at [utkarshraj.in](utkarshraj.in) 
