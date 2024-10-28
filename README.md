@@ -3,7 +3,6 @@
   A passionate Full stack developer and UI/UX designer from India 🇮🇳
 </h3>
 
-# 💫 About Me:
 👋 Hey there! I'm Utkarsh Raj<br>🚀 Final-year CSE Undergrad at IIITDM Jabalpur<br>🌱 Currently diving into DevOps<br>🤝 Looking to collaborate on DevOps, Dev, and Design Projects<br>💻 Check out all my projects on my Portfolio<br><br>💬 Reach Out<br>📫 Email: utkarshraj1306@gmail.com<br><br>⚡ Fun Fact<br>I sneeze whenever I see the sun! 🌞🥲
 
 
